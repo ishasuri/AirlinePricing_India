@@ -1,0 +1,68 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "MAA",
+    "arrival_id": "PNQ",
+    "outbound_date": "2025-01-11",
+    "return_date": "2025-01-14",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7847
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7847
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9008
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9008
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9424
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9424
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 7847,
+    "price_level": "low",
+    "typical_price_range": [
+      9100,
+      12000
+    ]
+  }
+}

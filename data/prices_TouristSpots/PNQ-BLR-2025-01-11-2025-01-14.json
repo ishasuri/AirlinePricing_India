@@ -1,0 +1,109 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "BLR",
+    "arrival_id": "PNQ",
+    "outbound_date": "2025-01-11",
+    "return_date": "2025-01-14",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 6667
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 6667
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6881
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 6667
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 6667
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6881
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7623
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7623
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7623
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7765
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8711
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 9445
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 6667,
+    "price_level": "typical",
+    "typical_price_range": [
+      6500,
+      7600
+    ]
+  }
+}

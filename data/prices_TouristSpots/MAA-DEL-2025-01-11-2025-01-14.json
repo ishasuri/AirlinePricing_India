@@ -1,0 +1,147 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "DEL",
+    "arrival_id": "MAA",
+    "outbound_date": "2025-01-11",
+    "return_date": "2025-01-14",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12008
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 12063
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 12063
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 11563
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 12063
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12218
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12375
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12428
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12428
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 12447
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 12447
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 12447
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12690
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12690
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12690
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12953
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 13013
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 13320
+    },
+    {
+      "flights": [
+        "SpiceJet"
+      ],
+      "price": 13552
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 13816
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 11563,
+    "price_level": "typical",
+    "typical_price_range": [
+      10500,
+      13000
+    ]
+  }
+}

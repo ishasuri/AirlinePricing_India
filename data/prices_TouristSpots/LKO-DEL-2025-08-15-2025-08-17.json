@@ -1,0 +1,97 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "DEL",
+    "arrival_id": "LKO",
+    "outbound_date": "2025-08-15",
+    "return_date": "2025-08-17",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8430
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9138
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9280
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9212
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9761
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9761
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9761
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9761
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9761
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9761
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 8430,
+    "price_level": "high",
+    "typical_price_range": [
+      5300,
+      6000
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "MAA",
+    "arrival_id": "IXM",
+    "outbound_date": "2025-08-15",
+    "return_date": "2025-08-17",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 11581
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 24514
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 24514
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 24724
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 24724
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 24724
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 24724
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 11581,
+    "price_level": "high",
+    "typical_price_range": [
+      7800,
+      9600
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "HYD",
+    "arrival_id": "BOM",
+    "outbound_date": "2025-01-11",
+    "return_date": "2025-01-14",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7069
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7069
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7069
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7069
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7672
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7672
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7672
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7672
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7672
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8047
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8247
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8247
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8247
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8247
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8247
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8447
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8667
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8667
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8888
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 7069,
+    "price_level": "typical",
+    "typical_price_range": [
+      5700,
+      7200
+    ]
+  }
+}

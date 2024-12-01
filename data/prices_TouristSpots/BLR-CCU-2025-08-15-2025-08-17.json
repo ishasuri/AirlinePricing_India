@@ -1,0 +1,149 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "CCU",
+    "arrival_id": "BLR",
+    "outbound_date": "2025-08-15",
+    "return_date": "2025-08-17",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 11869
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 11869
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12169
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12169
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12169
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12169
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12169
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12169
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12484
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12484
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12484
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12799
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12799
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 17316
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 17316
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 17316
+    },
+    {
+      "flights": [
+        "SpiceJet"
+      ],
+      "price": 22828
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 11869,
+    "price_level": "high",
+    "typical_price_range": [
+      9700,
+      10500
+    ]
+  }
+}

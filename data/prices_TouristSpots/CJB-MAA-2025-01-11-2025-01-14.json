@@ -1,0 +1,81 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "MAA",
+    "arrival_id": "CJB",
+    "outbound_date": "2025-01-11",
+    "return_date": "2025-01-14",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 7085
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7645
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7645
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7956
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7956
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7989
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7989
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8032
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8328
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 7085,
+    "price_level": "typical",
+    "typical_price_range": [
+      6600,
+      8200
+    ]
+  }
+}

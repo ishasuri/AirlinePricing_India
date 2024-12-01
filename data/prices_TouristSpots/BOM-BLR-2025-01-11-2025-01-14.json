@@ -1,0 +1,188 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "BLR",
+    "arrival_id": "BOM",
+    "outbound_date": "2025-01-11",
+    "return_date": "2025-01-14",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7841
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7841
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 7908
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7841
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7841
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 7908
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 8248
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8344
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8344
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8756
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8756
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8756
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8756
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8756
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8756
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8756
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9404
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9404
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9504
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9504
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9504
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9609
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9661
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9709
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9709
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 7841,
+    "price_level": "typical",
+    "typical_price_range": [
+      6600,
+      8400
+    ]
+  }
+}

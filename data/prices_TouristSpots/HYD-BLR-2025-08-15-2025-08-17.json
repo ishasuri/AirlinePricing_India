@@ -1,0 +1,125 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "BLR",
+    "arrival_id": "HYD",
+    "outbound_date": "2025-08-15",
+    "return_date": "2025-08-17",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 10823
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 11033
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 11203
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 10928
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 11033
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 11033
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 11033
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 11033
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 11033
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 11033
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 14494
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 14773
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 15391
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 10823,
+    "price_level": "high",
+    "typical_price_range": [
+      5800,
+      6000
+    ]
+  }
+}

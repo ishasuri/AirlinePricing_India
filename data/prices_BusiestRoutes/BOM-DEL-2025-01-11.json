@@ -1,0 +1,356 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "type": "2",
+    "departure_id": "DEL",
+    "arrival_id": "BOM",
+    "outbound_date": "2025-01-11",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 4743
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5341
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 5148
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 5148
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5341
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5341
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5341
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5341
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5341
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5341
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5341
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5341
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5341
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5556
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5656
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5656
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5656
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5656
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5808
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5923
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5923
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5923
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5923
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5923
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5966
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5966
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5966
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5966
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5966
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5966
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5966
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5966
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5966
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6477
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6532
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6774
+    },
+    {
+      "flights": [
+        "SpiceJet"
+      ],
+      "price": 8797
+    },
+    {
+      "flights": [
+        "SpiceJet"
+      ],
+      "price": 9533
+    },
+    {
+      "flights": [
+        "SpiceJet"
+      ],
+      "price": 9533
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 4743,
+    "price_level": "typical",
+    "typical_price_range": [
+      4400,
+      5400
+    ]
+  }
+}

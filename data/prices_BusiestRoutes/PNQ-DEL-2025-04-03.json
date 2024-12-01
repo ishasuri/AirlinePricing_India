@@ -1,0 +1,162 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "type": "2",
+    "departure_id": "DEL",
+    "arrival_id": "PNQ",
+    "outbound_date": "2025-04-03",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6569
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6624
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 7367
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6151
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6537
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6569
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6569
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6624
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6624
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6624
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6624
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6690
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6957
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 7099
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 7225
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 7225
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7254
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 7467
+    },
+    {
+      "flights": [
+        "SpiceJet"
+      ],
+      "price": 14269
+    },
+    {
+      "flights": [
+        "SpiceJet"
+      ],
+      "price": 14269
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 6151,
+    "price_level": "high",
+    "typical_price_range": [
+      5300,
+      6000
+    ]
+  }
+}

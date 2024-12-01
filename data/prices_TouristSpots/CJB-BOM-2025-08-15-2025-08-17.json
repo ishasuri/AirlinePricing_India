@@ -1,0 +1,63 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "BOM",
+    "arrival_id": "CJB",
+    "outbound_date": "2025-08-15",
+    "return_date": "2025-08-17",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7533
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7533
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7533
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 11109
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 11204
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 11340
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 7533,
+    "price_level": "low",
+    "typical_price_range": [
+      7600,
+      9400
+    ]
+  }
+}

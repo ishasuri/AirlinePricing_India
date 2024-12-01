@@ -1,0 +1,49 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "BLR",
+    "arrival_id": "CJB",
+    "outbound_date": "2025-01-11",
+    "return_date": "2025-01-14",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5968
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6388
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6388
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6808
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 5968,
+    "price_level": "low",
+    "typical_price_range": [
+      7800,
+      13000
+    ]
+  }
+}

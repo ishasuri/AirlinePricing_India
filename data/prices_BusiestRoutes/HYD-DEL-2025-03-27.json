@@ -1,0 +1,177 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "type": "2",
+    "departure_id": "DEL",
+    "arrival_id": "HYD",
+    "outbound_date": "2025-03-27",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 3499
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 3499
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 3500
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 3500
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 3499
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 3499
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 4744
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 4744
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 4999
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5164
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5404
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5404
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5404
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5404
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5404
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5404
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5404
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5532
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5532
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5532
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5598
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5598
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5645
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5902
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5952
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 3499,
+    "price_level": "low",
+    "typical_price_range": [
+      4250,
+      4950
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "type": "2",
+    "departure_id": "DEL",
+    "arrival_id": "HYD",
+    "outbound_date": "2025-05-13",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6501
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6501
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 6669
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6501
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6501
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6501
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6501
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6501
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 6669
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6742
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6742
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 7204
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 7204
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7212
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7212
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7212
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7212
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7212
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7212
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7212
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7212
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7212
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7212
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7212
+    },
+    {
+      "flights": [
+        "SpiceJet"
+      ],
+      "price": 9963
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 6501,
+    "price_level": "high",
+    "typical_price_range": [
+      4250,
+      5500
+    ]
+  }
+}

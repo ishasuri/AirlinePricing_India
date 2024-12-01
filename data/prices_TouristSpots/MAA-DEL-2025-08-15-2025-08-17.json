@@ -1,0 +1,135 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "DEL",
+    "arrival_id": "MAA",
+    "outbound_date": "2025-08-15",
+    "return_date": "2025-08-17",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12150
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12150
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12150
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12150
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 13940
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 12730
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 13811
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 13811
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 13864
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 13940
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 13940
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 13940
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 13940
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 13940
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 14082
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 14441
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 14441
+    },
+    {
+      "flights": [
+        "SpiceJet"
+      ],
+      "price": 20657
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 12150,
+    "price_level": "high",
+    "typical_price_range": [
+      10500,
+      11500
+    ]
+  }
+}

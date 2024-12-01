@@ -1,0 +1,97 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "BLR",
+    "arrival_id": "MAA",
+    "outbound_date": "2025-01-11",
+    "return_date": "2025-01-14",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5578
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5578
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 5584
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5578
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6628
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6628
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6628
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6943
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6943
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7205
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 5578,
+    "price_level": "typical",
+    "typical_price_range": [
+      4150,
+      8200
+    ]
+  }
+}

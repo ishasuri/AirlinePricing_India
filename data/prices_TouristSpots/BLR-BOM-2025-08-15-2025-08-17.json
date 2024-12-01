@@ -1,0 +1,218 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "BOM",
+    "arrival_id": "BLR",
+    "outbound_date": "2025-08-15",
+    "return_date": "2025-08-17",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 8293
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8510
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8167
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 8293
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 8293
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 8293
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8510
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8510
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8589
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8589
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8589
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8626
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8704
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8704
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8909
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9812
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9964
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 8167,
+    "price_level": "high",
+    "typical_price_range": [
+      6500,
+      7400
+    ]
+  }
+}

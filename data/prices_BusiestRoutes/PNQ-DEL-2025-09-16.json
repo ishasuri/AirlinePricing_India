@@ -1,0 +1,147 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "type": "2",
+    "departure_id": "DEL",
+    "arrival_id": "PNQ",
+    "outbound_date": "2025-09-16",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 4909
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6280
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 6426
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5784
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5784
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5784
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6117
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6151
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6151
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6151
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6151
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6170
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6170
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6170
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6280
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6391
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6569
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6811
+    },
+    {
+      "flights": [
+        "SpiceJet"
+      ],
+      "price": 14269
+    },
+    {
+      "flights": [
+        "SpiceJet"
+      ],
+      "price": 14269
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 4909,
+    "price_level": "high",
+    "typical_price_range": [
+      4200,
+      4750
+    ]
+  }
+}

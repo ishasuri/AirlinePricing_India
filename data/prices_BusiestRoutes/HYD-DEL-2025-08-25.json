@@ -1,0 +1,177 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "type": "2",
+    "departure_id": "DEL",
+    "arrival_id": "HYD",
+    "outbound_date": "2025-08-25",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 4744
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 4840
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6501
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 4999
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5164
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5217
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 5388
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5742
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5742
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5742
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 5742
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6424
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6501
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6501
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6501
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6501
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6634
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6634
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6679
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6742
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6742
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6800
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6800
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 7204
+    },
+    {
+      "flights": [
+        "SpiceJet"
+      ],
+      "price": 13113
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 4744,
+    "price_level": "high",
+    "typical_price_range": [
+      3750,
+      4300
+    ]
+  }
+}

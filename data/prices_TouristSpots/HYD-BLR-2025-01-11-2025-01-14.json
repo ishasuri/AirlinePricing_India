@@ -1,0 +1,143 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "BLR",
+    "arrival_id": "HYD",
+    "outbound_date": "2025-01-11",
+    "return_date": "2025-01-14",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 4196
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 4196
+    },
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 5009
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 4196
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 4196
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 4196
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 4196
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6289
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6499
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6499
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6601
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6601
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 6601
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6604
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6919
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7917
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 4196,
+    "price_level": "low",
+    "typical_price_range": [
+      6500,
+      6800
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "DEL",
+    "arrival_id": "LKO",
+    "outbound_date": "2025-01-11",
+    "return_date": "2025-01-14",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8123
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8123
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8123
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8460
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8460
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8861
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8861
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8861
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9813
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9813
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 9813
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 8123,
+    "price_level": "high",
+    "typical_price_range": [
+      5600,
+      6100
+    ]
+  }
+}

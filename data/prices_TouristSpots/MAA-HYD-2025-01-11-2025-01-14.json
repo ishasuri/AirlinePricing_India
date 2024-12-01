@@ -1,0 +1,109 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "HYD",
+    "arrival_id": "MAA",
+    "outbound_date": "2025-01-11",
+    "return_date": "2025-01-14",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6039
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6039
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6459
+    },
+    {
+      "flights": [
+        "Air India Express"
+      ]
+    },
+    {
+      "flights": [
+        "Alliance Air"
+      ]
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6440
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6440
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6440
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6879
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 6950
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7054
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7527
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 7785
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8036
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 6039,
+    "price_level": "low",
+    "typical_price_range": [
+      6100,
+      9100
+    ]
+  }
+}

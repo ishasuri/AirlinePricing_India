@@ -1,0 +1,49 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "BLR",
+    "arrival_id": "IXM",
+    "outbound_date": "2025-01-11",
+    "return_date": "2025-01-14",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9813
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 9813
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 10897
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 11539
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 9813,
+    "price_level": "typical",
+    "typical_price_range": [
+      8700,
+      11500
+    ]
+  }
+}

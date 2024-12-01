@@ -1,0 +1,135 @@
+{
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "departure_id": "BOM",
+    "arrival_id": "MAA",
+    "outbound_date": "2025-01-11",
+    "return_date": "2025-01-14",
+    "travel_class": 1,
+    "adults": 1,
+    "stops": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        "Akasa Air"
+      ],
+      "price": 7922
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8063
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8201
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8099
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8099
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8099
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8099
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8099
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8099
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8099
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8099
+    },
+    {
+      "flights": [
+        "IndiGo"
+      ],
+      "price": 8099
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8201
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8201
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8201
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8201
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8521
+    },
+    {
+      "flights": [
+        "Air India"
+      ],
+      "price": 8521
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 7922,
+    "price_level": "high",
+    "typical_price_range": [
+      6200,
+      7100
+    ]
+  }
+}
